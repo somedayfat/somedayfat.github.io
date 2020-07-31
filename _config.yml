@@ -1,9 +1,9 @@
 # Site
-name: 'Mundana'
-description: 'Mundana is a free Jekyll theme for awesome people like you, Medium like.'
-logo: 'assets/images/logo.png'
-favicon: 'assets/images/favicon.ico'
-baseurl: 'https://somedayfat.github.io/'
+name: 'Bersama Edukasi'
+description: ''
+logo: 'assets/images/mod.png'
+favicon: 'assets/images/be.ico'
+baseurl: ''
 
 include: ["_pages"]
 permalink: /:title/
@@ -16,22 +16,14 @@ plugins:
   - jekyll-seo-tag
   
 authors:
-    sal:
-      name:           Sal
-      site:           https://www.wowthemes.net
-      avatar:         /assets/images/avatar1.jpg
-      bio:            "Hi, I am Sal, the author of Mundana, the theme you're currently previewing. I hope you like it!"
-      email:          wowthemesnet@gmail.com
-      twitter:        https://twitter.com/wowthemesnet
+    sutrisno:
+      name:           Sutrisno
+      site:           https://www.instagram.com/somedayfat
+      avatar:         ./assets/images/sutrisno.PNG
+      bio:            "Hi, Saya Sutrisno atau sering dipanggil emod, saya adalah author sekaligus founder Bersama Edukasi"
+      email:          somedayfat@gmail.com
+      twitter:        https://twitter.com/LemariEmbun
 
-    jane:
-      name:           Jane
-      site:           https://www.wowthemes.net
-      avatar:         /assets/images/avatar2.jpg
-      bio:            "Blogger, fashionista, love to explore new ideas and write on my morning coffee!"
-      email:          fakemail@gmail.com
-      twitter:        https://twitter.com/wowthemesnet
- 
 # Defaults
 defaults:
 
@@ -40,8 +32,8 @@ defaults:
       path: "_posts"
     values:
       layout: post
-      author: sal
-      avatar: /assets/images/avatar1.jpg
+      author: Sutrisno
+      avatar: /assets/images/mod.png
       
   # all pages
   - scope:
