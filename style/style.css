@@ -118,7 +118,7 @@ body {
 
 .six img {
   display: inline-block;
-  max-width: 100%;
+  max-width: 80%;
   height: auto;
 }
 
@@ -218,7 +218,7 @@ body {
 
 .wish h5 {
   font-weight: lighter;
-  font-size: 1rem;
+  font-size: 0.8rem;
   margin: 10px 0 0;
 }
 
@@ -272,7 +272,7 @@ body {
 
 @media screen and (max-width: 500px) {
   .container {
-    width: 90%;
+    width: 80%;
   }
 
   .four .text-box {
@@ -302,7 +302,7 @@ body {
   }
 
   .wish h5 {
-    font-size: 10px;
+    font-size: 12px;
   }
 
   .nine p {
